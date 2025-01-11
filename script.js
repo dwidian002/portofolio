@@ -92,7 +92,6 @@ resumeBtns.forEach((btn, idx) => {
   });
 });
 
-// Modal
 
 // Modal
 class ModalHandler {
